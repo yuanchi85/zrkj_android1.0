@@ -1,0 +1,266 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:1:1-125:12
+INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:1:1-125:12
+INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:1:1-125:12
+INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:1:1-125:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3efc6b1992abb1783fd5aa1698bcd881\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\865bb27869fabcf2ad7114ba0d0b2461\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\629d5521aa6bc5bd4b64afbcc30eaf11\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\8bc00aa1a2ffbae3167ac325ab310bc8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b72a3ccd37b54a1a5a6c4752a4a8098b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c2687a04d1cd3432dd0c567edace3a2c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\11b2bc7be1db7cb3cc9176368afdd2d5\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:1:1-125:12
+INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:1:1-125:12
+INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:1:1-125:12
+	package
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:2:5-37
+		INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3efc6b1992abb1783fd5aa1698bcd881\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3efc6b1992abb1783fd5aa1698bcd881\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\865bb27869fabcf2ad7114ba0d0b2461\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\865bb27869fabcf2ad7114ba0d0b2461\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\629d5521aa6bc5bd4b64afbcc30eaf11\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\629d5521aa6bc5bd4b64afbcc30eaf11\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\8bc00aa1a2ffbae3167ac325ab310bc8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\8bc00aa1a2ffbae3167ac325ab310bc8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b72a3ccd37b54a1a5a6c4752a4a8098b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b72a3ccd37b54a1a5a6c4752a4a8098b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c2687a04d1cd3432dd0c567edace3a2c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c2687a04d1cd3432dd0c567edace3a2c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\11b2bc7be1db7cb3cc9176368afdd2d5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\11b2bc7be1db7cb3cc9176368afdd2d5\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3efc6b1992abb1783fd5aa1698bcd881\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:10:5-59:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3efc6b1992abb1783fd5aa1698bcd881\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3efc6b1992abb1783fd5aa1698bcd881\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\629d5521aa6bc5bd4b64afbcc30eaf11\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\629d5521aa6bc5bd4b64afbcc30eaf11\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\8bc00aa1a2ffbae3167ac325ab310bc8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\8bc00aa1a2ffbae3167ac325ab310bc8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b72a3ccd37b54a1a5a6c4752a4a8098b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b72a3ccd37b54a1a5a6c4752a4a8098b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c2687a04d1cd3432dd0c567edace3a2c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c2687a04d1cd3432dd0c567edace3a2c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\11b2bc7be1db7cb3cc9176368afdd2d5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\11b2bc7be1db7cb3cc9176368afdd2d5\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:14:9-40
+activity#zrkj.project.Login
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:18:9-25:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:19:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:23:27-74
+activity#zrkj.project.MainMenu
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:28:9-58
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:28:19-55
+activity#zrkj.project.zrkj.Main_Activity
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:29:9-68
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:29:19-65
+activity#zrkj.project.zrkj.FenTuoRkActivity
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:30:9-31:81
+	android:windowSoftInputMode
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:31:19-78
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:30:19-68
+activity#zrkj.project.zrkj.RuKuFuHe_Activity
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:32:9-33:75
+	android:windowSoftInputMode
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:33:13-72
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:32:19-69
+activity#zrkj.project.zrkj.RuKuZhiJian_Activity
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:34:9-35:75
+	android:windowSoftInputMode
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:35:13-72
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:34:19-72
+activity#zrkj.project.zrkj.PoDaiTiaoZheng_Activity
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:36:9-37:75
+	android:windowSoftInputMode
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:37:13-72
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:36:19-75
+activity#zrkj.project.zrkj.DiaoBo_Activity
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:38:9-39:75
+	android:windowSoftInputMode
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:39:13-72
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:38:19-67
+activity#zrkj.project.zrkj.XiaoHuo_Activity
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:40:9-41:75
+	android:windowSoftInputMode
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:40:19-68
+activity#zrkj.project.zrkj.TuiHuo_Activity
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:42:9-43:75
+	android:windowSoftInputMode
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:43:13-72
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:42:19-67
+activity#zrkj.project.zrkj.PiHaoSheZhi_Activity
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:44:9-45:75
+	android:windowSoftInputMode
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:45:13-72
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:44:19-72
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:63:5-66
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:63:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:65:5-81
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:65:22-78
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:66:5-88
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:66:22-85
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:68:5-67
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:68:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:69:5-79
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:69:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:70:5-81
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:70:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:71:5-84
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:71:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:72:5-80
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:72:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:73:5-75
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:73:22-72
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:74:5-76
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:74:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:75:5-76:23
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:75:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:77:5-78:23
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:77:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:79:5-80:23
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:79:22-65
+uses-permission#android.permission.CAMERA
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:81:5-82:23
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:81:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:84:5-60
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:84:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:85:5-70
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:85:19-67
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:87:5-69
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:87:22-66
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:88:5-79
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:88:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:89:5-81
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:89:22-78
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:90:5-74
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:90:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:91:5-68
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:91:22-65
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:92:5-93:23
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:92:22-76
+uses-feature#android.hardware.usb.host
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:95:5-62
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:95:19-59
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:97:5-81
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\zrkj_android\app\src\main\AndroidManifest.xml:97:16-78
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3efc6b1992abb1783fd5aa1698bcd881\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\629d5521aa6bc5bd4b64afbcc30eaf11\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\629d5521aa6bc5bd4b64afbcc30eaf11\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\8bc00aa1a2ffbae3167ac325ab310bc8\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\8bc00aa1a2ffbae3167ac325ab310bc8\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b72a3ccd37b54a1a5a6c4752a4a8098b\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b72a3ccd37b54a1a5a6c4752a4a8098b\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c2687a04d1cd3432dd0c567edace3a2c\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\c2687a04d1cd3432dd0c567edace3a2c\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\11b2bc7be1db7cb3cc9176368afdd2d5\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\11b2bc7be1db7cb3cc9176368afdd2d5\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3efc6b1992abb1783fd5aa1698bcd881\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3efc6b1992abb1783fd5aa1698bcd881\AndroidManifest.xml:26:9-47
